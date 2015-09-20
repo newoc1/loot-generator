@@ -1,2 +1,2 @@
 # loot-generator
-Basic javascript loot generation
+Basic javascript loot generation.
